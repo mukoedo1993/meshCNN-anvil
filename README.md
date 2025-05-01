@@ -1,5 +1,5 @@
 # meshCNN-anvil
-### My attempt to run https://github.com/ranahanocka/MeshCNN?utm_source=chatgpt.com on Anvil.
+### My attempt to run https://github.com/ranahanocka/MeshCNN
 
 ## Step 1: Clone git repo.
 `git clone https://github.com/ranahanocka/MeshCNN.git`
