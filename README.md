@@ -8,7 +8,7 @@
 `bash ./scripts/shrec/get_data.sh`
 
 ## Step 3: fixed conda directory
-### Warning: I chatGPTed a lot but still faced a lot of data quota exceeding warnings.
+### Warning: I tried a lot but still faced a lot of data quota exceeding warnings.
 ```CONDA_PKGS_DIRS=/[your-project-directory]/conda/pkgs \
 conda env create -f environment_fixed.yml```
 
