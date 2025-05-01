@@ -1,0 +1,15 @@
+name: meshcnn
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.8
+  - pytorch=1.10
+  - torchvision
+  - numpy
+  - scipy
+  - matplotlib
+  - tqdm
+  - plyfile
+  - scikit-learn
